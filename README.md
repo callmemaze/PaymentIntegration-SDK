@@ -3,6 +3,9 @@ Payment integration with stripe SDK and react native
 
 Integration of Stripe SDK in react native app
 
+# STRIPE
+
+For payement integration using stripe we need make an stripe account and get a API keys 
 
 # Testing the card payment using Stripe  
 
