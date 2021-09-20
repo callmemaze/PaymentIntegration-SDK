@@ -7,6 +7,12 @@ Integration of Stripe SDK in react native app
 
 For payement integration using stripe we need make an stripe account and get a API keys 
 
+```javascript
+npm install stripe
+npm install @stripe/stripe-react-native
+
+```
+
 # Testing the card payment using Stripe  
 
 Test for 3D Secure Payment
@@ -34,4 +40,16 @@ npm for installing paypal sdk
 npm install paypal-rest-sdk 
 ```
 # Testing
+
+- Loging from personal account
+
+![IMG_8139](https://user-images.githubusercontent.com/70954565/134000189-df484d5e-7109-477d-b7c6-bffce3650ce2.jpg)
+
+- Confirm payment
+
+![IMG_8140](https://user-images.githubusercontent.com/70954565/134000294-f2ca6f20-250e-4dfe-9638-c60d4f716d4f.jpg)
+
+- Payment Success
+
+![IMG_8141](https://user-images.githubusercontent.com/70954565/134000355-7dd888e6-03da-4c13-8925-03969134b99d.jpg)
 
